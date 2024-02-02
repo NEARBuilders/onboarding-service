@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "NEXT_PUBLIC_NETWORK": "mainnet",
+    "NEXT_PUBLIC_CLIENT_ACCOUNT": "",
+    "NEXT_PUBLIC_NEAR_PRIVATE_KEY": "",
+    "NEXT_PUBLIC_KEYPOM_CONTRACT":"v2.keypom.near",
+    "WALLET_BASE":""
+  }
+}
